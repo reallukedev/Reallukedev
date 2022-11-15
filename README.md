@@ -4,7 +4,7 @@ Hi 👋 My name is Realluke
 I like making websites
 ----------------------
 
-* 🖥️  See my portfolio at [luke.tk](http://luke.tk/)
+* 🖥️  See my portfolio at [https://realluke.vercel.app/](https://realluke.vercel.app/)
 * ✉️  You can contact me at [reallukeisbest889@gmail.com](mailto:reallukeisbest889@gmail.com)
 
 ### Skills
