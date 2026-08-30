@@ -1,5 +1,7 @@
-Hi! I'm Luke, a full-stack developer with a love for efficient, safe, ethical, and fast AI.
-===============================
+# Luke
 
-* 🖥️  See my portfolio at [https://realluke.vercel.app/](https://realluke.vercel.app/)
-* ✉️  You can contact me at [reallukeisbest889@gmail.com](mailto:reallukeisbest889@gmail.com)
+Hey! Welcome to my profile!
+
+I'm a fullstack developer, researcher, designer, artist, and musician
+
+Check out my website at https://www.sluke.dev/ or reach out to work with me at [schwarz.luke@icloud.com](mailto:schwarz.luke@icloud.com)
